@@ -1,6 +1,7 @@
 ## Tetris
 The Classic Tetris Game made using Javascript, Html and CSS!
 This Project follows the basic rules as the original game and displays a game over alert box when the player lost the game.
+Click to Visit and play: https://amazingk2k3.github.io/Tetris/
 
 
 ## Screenshots
